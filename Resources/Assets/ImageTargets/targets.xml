@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mark04" size="0.500000 0.491830" />
+    <ImageTarget name="mark03" size="0.500000 0.490400" />
+    <ImageTarget name="mark02" size="0.500000 0.513281" />
+    <ImageTarget name="mark01" size="0.500000 0.529820" />
+    <ImageTarget name="logo1" size="1.000000 0.530488" />
+    <ImageTarget name="mark11" size="1.000000 0.691176" />
+    <ImageTarget name="mark10" size="1.000000 0.744610" />
+    <ImageTarget name="logo07" size="0.800000 1.118518" />
+    <ImageTarget name="logo06" size="0.800000 0.899575" />
+    <ImageTarget name="logo05" size="0.800000 1.117928" />
+    <ImageTarget name="logo03" size="0.800000 1.054074" />
+    <ImageTarget name="logo02" size="0.800000 1.013333" />
+    <ImageTarget name="logo04" size="1.000000 1.099447" />
+    <ImageTarget name="logo01" size="0.500000 0.651531" />
+    <ImageTarget name="mark05" size="0.500000 0.647059" />
+    <ImageTarget name="mark06" size="0.500000 0.647059" />
+    <ImageTarget name="mark07" size="0.500000 0.647059" />
+    <ImageTarget name="mark09" size="1.000000 1.474654" />
+    <ImageTarget name="mark08" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="logo1" size="0.500000 0.651531" />
+    <ImageTarget name="logo4" size="1.000000 1.099447" />
+    <ImageTarget name="logo7" size="0.800000 1.118518" />
+    <ImageTarget name="logo6" size="0.800000 0.899575" />
+    <ImageTarget name="logo5" size="0.800000 1.117928" />
+    <ImageTarget name="logo3" size="0.800000 1.054074" />
+    <ImageTarget name="logo2" size="0.800000 1.013333" />
+    <ImageTarget name="mark2" size="1.000000 0.750000" />
+    <ImageTarget name="mark1" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
